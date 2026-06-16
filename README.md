@@ -9,22 +9,22 @@ During my studies, I became interested in Python, data analysis. AIML combines p
 Through this field, I have been developing skills in machine learning concepts, coding, and project development. My goal is to build a strong career in software and AI-related technologies while continuously learning and improving.
 
 
-#strengths
+**strengths**
 
 My strengths are that I am a quick learner, adaptable, and willing to improve continuously. I stay committed to completing my work and enjoy learning new technologies and solving problems.
 
 
-#weakness
+**weakness**
 
 One area I am improving is public speaking. Earlier, I used to feel nervous while speaking in front of others, but I have been working on it by practicing communication and participating more actively in discussions and presentations.
 
 
-#why should you hire me
+**why should you hire me**
 
 As a fresher, I may not have industry experience, but I am eager to learn, adaptable, and committed to improving my skills. I have a strong interest in technology and I am ready to work hard, learn quickly, and contribute to the team.
 
 
-#about company
+**about company**
 
 I am interested in this role/company because it matches my skills and interests in technology and software development. I believe this opportunity will help me apply my knowledge, gain practical experience, and learn from experienced professionals. I also see this company as a place where I can grow professionally and contribute positively.
 
